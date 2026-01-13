@@ -1,0 +1,11 @@
+sort1 uses: bubble
+
+How do you know?: it performs better than selection but not as well as merge
+
+sort2 uses: merge
+
+How do you know?: it is clearly the fastest, even with large datasets
+
+sort3 uses: selection
+
+How do you know?: it is the slowest with large numbers
